@@ -15,4 +15,4 @@ Ketikan Perintah Seperti Berikut!!
 7. Ketik "termux-stup-storage" (enter)
 8. Ketik "git clone https://github.com/gema331/Ganti-ID2.git" (enter)
 9. Ketik "cd Ganti-ID2" (enter)
-10. Ketik "python idbaru.py" (enter)
+10.Ketik "python idbaru.py" (enter)
